@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\bin\Debug\GC_lab_9.exe.config
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\bin\Debug\GC_lab_9.exe
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\bin\Debug\GC_lab_9.pdb
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\obj\Debug\GC_lab_9.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\obj\Debug\GC_lab_9.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\obj\Debug\GC_lab_9.exe
+C:\Users\rtoles\Desktop\GC_LAB_9\GC_lab_9\GC_lab_9\obj\Debug\GC_lab_9.pdb
